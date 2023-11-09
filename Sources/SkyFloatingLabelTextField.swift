@@ -11,7 +11,7 @@
 
 import UIKit
 
-/**
+/** 
  An enum for the possible error label placements.
  .default is the standard (on top) position; the error message is displayed in the `titleLabel`.
  .bottom displays the error below the text field in a dedicated `errorLabel`.
